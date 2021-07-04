@@ -4,3 +4,6 @@ const helloWorld = () => {
 const aloPp= () => {
     console.log("Oi!");
 }
+const mud = () => {
+    console;log("teste para salvar");
+}
